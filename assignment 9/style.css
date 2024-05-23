@@ -1,0 +1,44 @@
+body
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(book.jpg);
+}
+p , h2,h3,h4,h5,h6,button {
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+}
+.my-autoo
+{
+    margin: 170px 0px;
+}
+h1
+{
+    font-family: "Acme", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 150px !important;
+}
+.colored
+{
+    color:#AF8F6F;
+    text-shadow:black;
+}
+.colored2
+{
+    color:#c0bcad !important;
+}
+.coverd
+{
+    background-color:#543310 ;
+    width: 45%;
+    margin: auto;
+    margin-top: 12px;
+}
+.hoverd {
+    background-color: #74512D !important;
+    border: #74512D !important;
+    color: white !important;
+}
+
+.hoverd:hover {
+    background-color: #5b4024 !important;
+}
